@@ -1,2 +1,25 @@
 # Interview_Leetcode_Questions
-This repository consists of my responses to the Top Interview 150 Questions that every programmer must do to ace interviews.
+This repository consists of my responses to the Top Interview 150 Questions that every programmer must do to ace interviews. These questions will cover the following topics as we go: 
+- Array/ String
+- Two Pointers
+- Sliding Window
+- Matrix
+- Hashmap
+- Intervals
+- Stack
+- Linked List
+- Binary Tree General
+- Binary Tree BFS
+- Binary Search Tree
+- Graph General
+- Graph BFS
+- Trie
+- Backtracking
+- Divide and Conquer
+- Kadane's Algorithm
+- Binary Search
+- Heap
+- Bit Manipulation
+- Math
+- 1D Dynamic Programming
+- Multidimensional Dynamic Programming
